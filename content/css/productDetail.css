@@ -1,0 +1,16 @@
+﻿img {
+    width: 100%;
+}
+
+.product__price {
+    color: #E02207;
+}
+
+.product__info {
+    margin-bottom: 24px;
+}
+
+.list-action {
+    display: flex;
+    justify-content: space-between;
+}
